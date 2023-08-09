@@ -1,7 +1,7 @@
 {
   inputs = {
     nixpkgs = {
-      url = "github:nixos/nixpkgs/nixos-unstable";
+      url = "github:nixos/nixpkgs/nixos-23.05";
     };
     flake-utils = {
       url = "github:numtide/flake-utils";
@@ -16,7 +16,7 @@
       devShell = pkgs.mkShell {
         LD_LIBRARY_PATH = "${pkgs.stdenv.cc.cc.lib}/lib";
         buildInputs = with pkgs; [
-          python3 neovim
+          python311 python311Packages.pip
         ];
       };
     }
