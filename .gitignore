@@ -2,6 +2,7 @@ build/*
 dist/*
 .firebase/*
 .obsidian/*
+.direnv/*
 *.env
 *.venv
 *.lock

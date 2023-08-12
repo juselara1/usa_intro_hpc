@@ -37,7 +37,9 @@ En este repositorio encontrará el material relacionado al curso de introducció
 | 27-07-23 | _Python_ vs C | [1_intro.ipynb](https://github.com/juselara1/usa_intro_hpc/blob/main/src/1_intro_hpc.ipynb) | [enlace](https://drive.google.com/file/d/1xdab2ndUrGmLImAJNp14vKQj061yF4mj/view?usp=sharing) |
 | 28-07-23 | Intro numpy | [2_intro_numpy.ipynb](https://github.com/juselara1/usa_intro_hpc/blob/main/src/2_intro_numpy.ipynb) | [enlace](https://drive.google.com/file/d/1hhKD2iaO3FVSPkFGIJEG8c2Cn074geBD/view?usp=sharing) |
 | 03-08-23 | Numpy benchmark | [3_numpy_benchmark.ipnyb](https://github.com/juselara1/usa_intro_hpc/blob/main/src/3_numpy_benchmark.ipynb) | [enlace](https://drive.google.com/file/d/1hB5kJs-ja5wqEzashb8QHdlceoagL9xh/view?usp=sharing) |
-| 04-08-32 | Conceptos numpy | [4_numpy_basics.ipynb](https://github.com/juselara1/usa_intro_hpc/blob/main/src/4_numpy_basics.ipynb) | [enlace](https://drive.google.com/file/d/13_dofXacmFDod_Zp9dVNdtLqFpIp2tFQ/view?usp=sharing) |
+| 04-08-23 | Conceptos numpy | [4_numpy_basics.ipynb](https://github.com/juselara1/usa_intro_hpc/blob/main/src/4_numpy_basics.ipynb) | [enlace](https://drive.google.com/file/d/13_dofXacmFDod_Zp9dVNdtLqFpIp2tFQ/view?usp=sharing) |
+| 10-08-23 | Conceptos numpy 2 | [5_numpy_basics.ipynb](https://github.com/juselara1/usa_intro_hpc/blob/main/src/5_numpy_basics.ipynb) | [enlace](https://drive.google.com/file/d/1OtFS7oKKUhvqUoAyQpWKezQ-Wa9oRhFW/view?usp=drive_link) |
+| 11-08-23 | Numba | [6_numba.ipynb](https://github.com/juselara1/usa_intro_hpc/blob/main/src/6_numba.ipynb) | [enlace](https://drive.google.com/file/d/1vTl4xyAGqdJuPhyPc7rA8JQHI_x3I3Xi/view?usp=drive_link) |
 
 ## Talleres
 
