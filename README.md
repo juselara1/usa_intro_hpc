@@ -40,6 +40,8 @@ En este repositorio encontrará el material relacionado al curso de introducció
 | 04-08-23 | Conceptos numpy | [4_numpy_basics.ipynb](https://github.com/juselara1/usa_intro_hpc/blob/main/src/4_numpy_basics.ipynb) | [enlace](https://drive.google.com/file/d/13_dofXacmFDod_Zp9dVNdtLqFpIp2tFQ/view?usp=sharing) |
 | 10-08-23 | Conceptos numpy 2 | [5_numpy_basics.ipynb](https://github.com/juselara1/usa_intro_hpc/blob/main/src/5_numpy_basics.ipynb) | [enlace](https://drive.google.com/file/d/1OtFS7oKKUhvqUoAyQpWKezQ-Wa9oRhFW/view?usp=drive_link) |
 | 11-08-23 | Numba | [6_numba.ipynb](https://github.com/juselara1/usa_intro_hpc/blob/main/src/6_numba.ipynb) | [enlace](https://drive.google.com/file/d/1vTl4xyAGqdJuPhyPc7rA8JQHI_x3I3Xi/view?usp=drive_link) |
+| 18-08-23 | Julia | Contenido del libro de Julia | [enlace](https://drive.google.com/file/d/1zCky2I0U-fL9nUerLfssyerL_6KkTVNM/view?usp=drive_link) |
+| 24-08-24 | Cython | [7_cython.ipynb](https://github.com/juselara1/usa_intro_hpc/blob/main/src/7_cython.ipynb) | [enlace]() |
 
 ## Talleres
 
